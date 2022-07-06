@@ -1,3 +1,3 @@
 Test text file
 
-J'ajoute d'autres changements
+J'ajoute d'autres changementsThis is bad text to be reverted.
